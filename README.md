@@ -1,3 +1,14 @@
+A React app that allows users to search and view movie details using an external API.
+##  Features
+- React functional components
+- Movie search bar
+- Dynamic rendering of movie data
+
+##  Tech Stack
+- React.js
+- JavaScript (ES6+)
+- CSS (optional styling)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
